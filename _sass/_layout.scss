@@ -5,7 +5,9 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    background: url(../images/austin_skyline.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -161,6 +163,53 @@
 /**
  * Page content
  */
+ .brick.featured_brick {
+     float: left;
+     width: 35%;
+     height: 314px;
+ }
+ .brick { 
+     width: 10%; 
+     background: white;
+     padding: $spacing-unit;
+     border: 10px solid silver;
+     border-radius: 25px;
+     float: left;
+     margin-right: $spacing-unit;
+     margin-bottom: $spacing-unit;
+}
+
+.container:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background: url(../images/austin_skyline.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    line-height: 100px;
+    text-align: center;
+    vertical-align: center;
+    color: white;
+}
+
+.square p {
+    color: black;
+    text-align: center;
+}
+
+.featured_image {
+    width: 20%;
+    float: left;
+    margin-right: $spacing-unit;
+}
+
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -174,8 +223,19 @@
     list-style: none;
 
     > li {
+        float: left;
+        margin-left: $spacing-unit;
         margin-bottom: $spacing-unit;
     }
+}
+
+.post-list:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
 }
 
 .post-meta {

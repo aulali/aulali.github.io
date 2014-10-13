@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Getting Started
-date: 2014-10-07
+title: Women Who Code
 ---
 
-This week my MakerSquare classes started on Monday and Wednesday night, along with my Thursday night Photoshop class that started the week before. Busy! I haven't had much down time but it's felt really good to spend my evenings learning things that I enjoy.
+  <img src="/images/test2.jpg" />
 
-I used to use PhotoShop pretty heavily when I was an art major. Since many moons have passed since I was in college, I was afraid my skills would be woefully out of date. Technology changes in the blink of an eye. But, I've been pleasantly surprised so far all the tools I've learned in PhotoShop class are like long-lost friends! Picking them up again has been so much fun. I hope to use my Photoshop skills to complement the front-end skills I"m learning at MakerSquare.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
